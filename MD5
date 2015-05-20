@@ -1,7 +1,7 @@
-9cd5bbcd8c6ed703af9a72959ef79b6f *DESCRIPTION
+32764eb1d3ae5cc441a324e71e8d1644 *DESCRIPTION
 4a2d524f36ae4f7dc78d7128bfa15355 *LICENSE
 285c3859b64fb70c86a3656283baa6d9 *NAMESPACE
-a259ec5a2c44e56881554b536cb208d5 *R/rice.R
+03bea7806cc3faefd8008925503cde25 *R/rice.R
 5a705a3ed9841d3cfe41195d42052fe6 *R/wordlist.R
 f7f534d11feda072771e19b97da98ddd *data/wordlist_de.rda
 94dd8b8d0cae0e1d1c66009848292b9b *data/wordlist_en.rda
@@ -29,4 +29,4 @@ a04b1c8965cbbb0bf6c5bf0f8b259091 *man/wordlist_fr.Rd
 dcb09484435062efac29f6caac0cf1f3 *man/wordlist_jp.Rd
 8b5d2352d36d48d224ba04caa376010f *man/wordlist_sv.Rd
 7b3ee18a11ae66ada94b453650c4a693 *tests/testthat.R
-6c35c5737fb201f32e76ae8b762c2427 *tests/testthat/test-rice.R
+d9ee7ce0be914b2319669e7af0b3c2b7 *tests/testthat/test-rice.R
